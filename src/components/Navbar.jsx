@@ -19,7 +19,7 @@ function Navbar() {
             React.
           </h1>
           {/* Menu Items */}
-          <div className='hidden space-x-10 md:flex'>
+          <div className='hidden space-x-10 text-lg md:flex'>
             <a href='#' className='duration-300 hover:text-cyanGreen'>
               Home
             </a>
