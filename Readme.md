@@ -8,4 +8,4 @@ Learning how to build React x Tailwind CSS website
 
 ## Screenshots
 
-![Alt text](assets/preview.jpeg)
+![Alt text](src/assets/preview.jpeg)
