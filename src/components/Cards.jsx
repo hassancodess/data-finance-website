@@ -8,7 +8,7 @@ function Cards() {
     <>
       <section className='p-4 bg-white py-36 '>
         {/* Main Container */}
-        <div className='container grid grid-cols-3 gap-8 mx-auto'>
+        <div className='container grid max-w-md grid-cols-1 gap-10 mx-auto lg:grid-cols-3 gap-y-28 lg:max-w-7xl'>
           {/* Card 1 */}
           <Card
             img={single}
@@ -21,6 +21,7 @@ function Cards() {
             title='Single User'
             price='$199'
             features={['1 TB Storage', '3 Users Allowed', 'Send up to 10 GB']}
+            theme={true}
           />
           <Card
             img={triple}
