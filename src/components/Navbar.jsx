@@ -11,7 +11,7 @@ function Navbar() {
   return (
     <>
       {/* Navbar Container */}
-      <nav className='container p-4 mx-auto text-white'>
+      <nav className='container p-4 mx-auto text-white max-w-7xl'>
         {/* Flex Container for Items */}
         <div className='flex items-center justify-between '>
           {/* Logo */}
