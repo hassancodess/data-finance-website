@@ -1,6 +1,6 @@
 # Data Finance Website
 
-Learning how to build websites React x Tailwind CSS
+Learning how to build React x Tailwind CSS website
 
 ## Demo
 
