@@ -12,7 +12,7 @@ function Hero() {
             <h3 className='font-medium uppercase text-md text-cyanGreen md:text-xl'>
               Growing with data Analytics
             </h3>
-            <h1 className='text-3xl font-semibold tracking-wide md:text-4xl lg:text-5xl'>
+            <h1 className='text-3xl font-semibold tracking-wide md:text-4xl lg:text-7xl'>
               Grow with data.
             </h1>
             <div className='flex flex-col items-center space-x-1 md:flex-row'>
