@@ -9,13 +9,17 @@ function Analytics() {
           {/* Grid Container */}
           <div className='grid items-center grid-cols-1 justify-items-center md:grid-cols-2 gap-y-10 md:gap-y-0'>
             {/* Image */}
-            <img src={Laptop} alt='laptop' className='object-cover w-5/6' />
+            <img
+              src={Laptop}
+              alt='laptop'
+              className='object-cover w-5/6 h-full'
+            />
             {/* Content */}
             <div className='flex flex-col items-start space-y-3'>
               <h3 className='font-semibold uppercase text-md text-cyanGreen'>
                 data analytics dashboard
               </h3>
-              <h1 className='text-3xl font-bold capitalize'>
+              <h1 className='text-3xl font-bold capitalize lg:text-5xl'>
                 Manage data analytics centrally
               </h1>
               <p className='max-w-lg'>
