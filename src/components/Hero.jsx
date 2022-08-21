@@ -32,7 +32,7 @@ function Hero() {
               SASS platforms
             </p>
             {/* CTA */}
-            <button className='px-10 py-3 font-medium text-gray-900 rounded-md bg-cyanGreen'>
+            <button className='px-16 py-3 font-medium text-gray-900 rounded-md bg-cyanGreen'>
               Get Started
             </button>
           </div>
