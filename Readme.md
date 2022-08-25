@@ -9,7 +9,7 @@ A Data Finance Website Landing Page
 - React
 - Tailwind CSS
 - React Icons
-- Recat Typed
+- React Typed
 
 ## Demo
 
